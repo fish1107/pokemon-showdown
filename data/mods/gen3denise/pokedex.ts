@@ -11,7 +11,7 @@ export const Pokedex: {[k: string]: ModdedSpeciesData} = {
 	},
 	blastoise: {
 		inherit: true,
-		types: ["Water", "Steel"],
+		types: ["Water", "Grass"],
 		abilities: {0: "Torrent", H: "Skill Link"},
 	},
 	blastoisemega: {
