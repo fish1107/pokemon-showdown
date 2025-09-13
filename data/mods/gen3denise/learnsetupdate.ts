@@ -37,6 +37,7 @@ export function learnsetUpdate(dex: ModdedDex) {
 	dex.modData("Learnsets", "pidgeot").learnset.dualwingbeat = ["3T"];
 	dex.modData("Learnsets", "pidgeot").learnset.thunder = ["3M"];
 	dex.modData("Learnsets", "pidgeot").learnset.thunderbolt = ["3M"];
+	dex.modData("Learnsets", "pidgeot").learnset.heatwave = ["3M"];
 	
 	dex.modData("Learnsets", "raticate").learnset.jumpkick = ["3L44"];
 	
