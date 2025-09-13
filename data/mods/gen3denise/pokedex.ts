@@ -16,7 +16,7 @@ export const Pokedex: {[k: string]: ModdedSpeciesData} = {
 	},
 	blastoisemega: {
 		inherit: true,
-		types: ["Water", "Steel"],
+		types: ["Water", "Grass"],
 	},
 	butterfree: {
 		inherit: true,
