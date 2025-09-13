@@ -1040,6 +1040,7 @@ export const Pokedex: {[k: string]: ModdedSpeciesData} = {
 	heatmor: {
 		inherit: true,
 		types: ["Fire", "Poison"],
+		baseStats: {hp: 90, atk: 97, def: 68, spa: 115, spd: 69, spe: 80},
 	},
 	gogoat: {
 		inherit: true,
